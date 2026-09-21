@@ -1,7 +1,7 @@
 # KLH-FED-2026-T2-AttendanceTracker
 1. Project Title
   University Grade and Attendance Tracker
-A java based application to monitor students attendance  
+A java based application to monitor students attendance and grades. 
 
 2. Team Members
    M. Jasmitha 2620040033
@@ -12,4 +12,4 @@ A java based application to monitor students attendance
 
 4. Abstract    
 
-The University Grade and Attendance Tracker is a Java-based application designed to manage and monitor student attendance efficiently. It records student details, attendance, and automatically calculates attendance percentages. The system reduces manual work and errors while demonstrating Java concepts such as classes, objects, methods, loops, and conditional statements.
+The University Grade and Attendance Tracker is a Java-based application designed to manage and monitor student attendance and grades efficiently. It records student details, attendance, and automatically calculates attendance percentages. The system reduces manual work and errors while demonstrating Java concepts such as classes, objects, methods, loops, and conditional statements.
