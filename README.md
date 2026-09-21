@@ -8,7 +8,7 @@ A java based application to monitor students attendance
    P. Namratha 2620030359
 
 3. Supervisor
-  K. Rakesh
+   Mr. Rakesh
 
 4. Abstract    
 
