@@ -12,4 +12,4 @@ A java based application to monitor students attendance
 
 4. Abstract    
 
-The University Attendance Tracker is a Java-based application designed to manage and monitor student attendance efficiently. It records student details, attendance, and automatically calculates attendance percentages. The system reduces manual work and errors while demonstrating Java concepts such as classes, objects, methods, loops, and conditional statements.
+The University Grade and Attendance Tracker is a Java-based application designed to manage and monitor student attendance efficiently. It records student details, attendance, and automatically calculates attendance percentages. The system reduces manual work and errors while demonstrating Java concepts such as classes, objects, methods, loops, and conditional statements.
