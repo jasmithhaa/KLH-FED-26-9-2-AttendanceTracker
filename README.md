@@ -47,8 +47,8 @@ The main purpose of this project is to make student performance tracking more ef
 - GitHub
 
 8. Project Structure
-
-
+   
+```text
 KLH-FED-2026-T2-AttendanceTracker/
 │
 ├── src/
@@ -66,9 +66,15 @@ KLH-FED-2026-T2-AttendanceTracker/
 ├── reports/
 │   └── Project review and final reports
 │
+├── lib/
+│   └── Project libraries, if required
+│
 └── README.md
 
-9. Setup Instructions
+
+
+
+10. Setup Instructions
 Install the Java Development Kit (JDK).
 Install Visual Studio Code.
 Install the required Java extensions in Visual Studio Code.
@@ -78,7 +84,7 @@ Navigate to the src folder.
 Open the main Java file.
 Compile and run the program.
 
-10. Execution Instructions
+11. Execution Instructions
 Open the project in Visual Studio Code.
 Navigate to the src folder.
 Open the main Java program.
